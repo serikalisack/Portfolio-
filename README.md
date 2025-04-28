@@ -52,8 +52,9 @@ Portfolio/
 ## 🌐 Live Demo
 [View Live Portfolio](https://serikalisack.github.io/Portfolio-/)  
 
-## 📝 License
-MIT License - Feel free to use this as a template for your own portfolio!
+<!-- ## 📝 License Link markdown -->
+## 📝 License 
+[MIT License](LICENSE)
 
 ---
 
@@ -62,5 +63,3 @@ MIT License - Feel free to use this as a template for your own portfolio!
 [<img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="30"/>](MyTwitter) 
 [<img src="https://img.icons8.com/color/48/000000/gmail.png" width="30"/>](mailto:serikalidevelopment@email.com)
 ```
-
-
