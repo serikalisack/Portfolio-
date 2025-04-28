@@ -23,7 +23,7 @@ Here's a comprehensive **README.md** template for your portfolio repository, str
 - **Design**: Custom CSS animations and transitions  
 
 ## 📂 Project Structure
-```
+```markdown
 Portfolio/
 ├── index.html            # Main portfolio page
 ├── styles.css            # All custom styling
