@@ -1,13 +1,9 @@
-# Portfolio-
-A sleek, animated one-page portfolio for developers/designers, with dynamic sections, glowing theme, responsive design, and built using HTML5, CSS3, JS, and Bootstrap 5.
-
-Here's a comprehensive **README.md** template for your portfolio repository, structured to showcase your project effectively:
-
 ```markdown
 # Serikali's Portfolio 🌟
 
 ![Portfolio Screenshot](./screenshots/Welcome.png)  
-*A modern, animated portfolio showcasing my skills as a full-stack developer and designer*
+*A sleek, animated one-page portfolio for developers/designers, with dynamic sections, glowing theme, responsive design, and built using HTML5, CSS3, JS, and Bootstrap 5.
+*
 
 ## 🚀 Features
 - **Dynamic Single-Page Application** with smooth section transitions  
