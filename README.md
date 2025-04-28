@@ -1,16 +1,10 @@
-
+```markdown
 # Serikali's Portfolio 🌟
 
 ![Portfolio Screenshot](./screenshots/Welcome.png)  
-<<<<<<< HEAD
 *A sleek, animated one-page portfolio for developers/designers, with dynamic sections, glowing theme, responsive design, and built using HTML5, CSS3, JS, and Bootstrap 5.*
 
 ```
-=======
-*A sleek, animated one-page portfolio for developers/designers, with dynamic sections, glowing theme, responsive design, and built using HTML5, CSS3, JS, and Bootstrap 5.
-*
-```markdown
->>>>>>> f169d7ce47c5b383d364525e82107a913a5d5952
 ## 🚀 Features
 - **Dynamic Single-Page Application** with smooth section transitions  
 - **Interactive Animations**: Typing effects, hover animations, and glowing UI elements  
